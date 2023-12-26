@@ -1,1 +1,1 @@
-This SMART EGG INCUBATOR is developed to automate incubation method and provide service data recording during the incubation method.
+This SMART EGG INCUBATOR is developed to automate incubation method and provide data recording service during the incubation period.
